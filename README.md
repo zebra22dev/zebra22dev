@@ -27,7 +27,7 @@ Estou em busca da minha primeira oportunidade como desenvolvedor.
 
 ### 📫 Contato
 
-[LinkedIn](https://www.linkedin.com/in/henriquepaglione) · [E-mail](henriquepaglione10@gmail.com)
+[LinkedIn](https://www.linkedin.com/in/henriquepaglione) · [E-mail](mailto:henriquepaglione10@gmail.com)
 
 
 <!--
