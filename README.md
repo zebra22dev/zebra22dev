@@ -22,7 +22,6 @@ Estou em busca da minha primeira oportunidade como desenvolvedor.
 
 - **[bot-cafe](https://github.com/zebra22dev/bot-cafe)** · Python + GitHub Actions: monitora promoções de café e equipamentos, compara com o menor preço do mercado e avisa no WhatsApp (versão [Telegram](https://github.com/zebra22dev/bot-cafe-telegram)).
 - **[BeeWork](https://github.com/zebra22dev/BeeWork)** · PHP + MySQL + JavaScript: TCC em grupo, plataforma para contratar prestadores de serviço, com cadastro, serviços, avaliações e painel administrativo.
-- **[Villa Dolce](https://github.com/zebra22dev/VillaDolce_Vitrine)** · HTML, CSS e JavaScript: site vitrine de confeitaria e café. [Ver online ↗](https://zebra22dev.github.io/VillaDolce_Vitrine/)
 - **[CV-HTML](https://github.com/zebra22dev/CV-HTML)** · HTML e CSS: meu currículo em uma página. [Ver online ↗](https://zebra22dev.github.io/CV-HTML/CV_Henrique.html)
 
 ### 📫 Contato
